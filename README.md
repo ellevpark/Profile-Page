@@ -1,2 +1,2 @@
-# Profile-Page-
-Profile page with contact information and portfolio 
+# Profile-Page
+Highlights of some of my work and information about me. 
