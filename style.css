@@ -44,6 +44,12 @@ body {
   height: 110%;
 }
 
+figcaption {
+  display: block;
+  width: 70%;
+  padding:10px;
+}
+
 img {
   width: 70%;
   margin-top: 20px;
